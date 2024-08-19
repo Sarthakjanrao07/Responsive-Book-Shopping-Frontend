@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap');
 
 :root{
-    --green:#4a53c6;
+    --green:#a05454;
     --dark-color:#219150;
-    --black:#000000;
+    --black:#0a0909;
     --light-color:#666;
     --border:.1rem solid rgba(0,0,0,.1);
     --border-hover:.1rem solid var(--black);
@@ -172,7 +172,7 @@ section{
 }
 
 .header .header-2 .navbar a:hover{
-    background-color: #866bc3;
+    background-color: #ac5b5b;
 }
 
 
@@ -320,7 +320,7 @@ body{
 }
 
 .home .row .content p{
-    color: rgb(231, 204, 204);
+    color: rgb(0, 0, 0);
     font-size: 1.2rem;
     line-height: 2;
     padding: 1rem 0;
